@@ -8,8 +8,8 @@ permalink: /privacy-policy/
 
 **Effective date:** 12 August 2026  
 **App:** Pyramid (`com.peerpyr.pyramid`)  
-**Developer:** **[REPLACE BEFORE PUBLISHING: exact legal developer or business name shown in Google Play]**  
-**Privacy contact:** **[REPLACE BEFORE PUBLISHING: monitored support/privacy email address]**
+**Developer:** **GCO-SYSTECH-INC**  
+**Privacy contact:** [Privacy Contact Form](https://gco-systech.com/#contact)
 
 This Privacy Policy explains how Pyramid handles information when you use the app. It applies to the Android app and its advertising and multiplayer services. This policy must remain publicly available at the URL shown in the app and in the Google Play store listing.
 
@@ -76,4 +76,4 @@ We will post changes on this page and update the effective date at the top befor
 
 ## Contact
 
-For privacy questions or requests, contact **[REPLACE BEFORE PUBLISHING: monitored support/privacy email address]** and include “Pyramid Privacy” in the subject line.
+For privacy questions or requests, here is our [Privacy Contact Form](https://gco-systech.com/#contact), please include “Pyramid Privacy” in the subject line.

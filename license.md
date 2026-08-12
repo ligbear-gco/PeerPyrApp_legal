@@ -1,3 +1,9 @@
+---
+layout: default
+title: Pyramid License Policy
+permalink: /license/
+---
+
 # Documentation license and notice
 
 Copyright © 2026 **GCO-SYSTECH-INC**.

@@ -1,10 +1,16 @@
+---
+layout: default
+title: Pyramid Terms of Use
+permalink: /terms-of-use/
+---
+
 # Pyramid Terms of Use
 
 **Effective date:** 12 August 2026  
-**Developer:** **[REPLACE BEFORE PUBLISHING: exact legal developer or business name shown in Google Play]**  
-**Support contact:** **[REPLACE BEFORE PUBLISHING: monitored support email address]**
+**Developer:** **GCO-SYSTECH-INC**  
+**Support contact:** [Privacy Contact Form](https://gco-systech.com/#contact)
 
-By downloading or using Pyramid, you agree to these Terms of Use and the [Privacy Policy](privacy-policy.md). If you do not agree, do not use the app.
+By downloading or using Pyramid, you agree to these [Terms of Use](https://ligbear-gco.github.io/PeerPyrApp_legal/terms-of-use/) and the [Privacy Policy]([privacy-policy.md](https://ligbear-gco.github.io/PeerPyrApp_legal/privacy-policy/)). If you do not agree, do not use the app.
 
 ## Service and eligibility
 
@@ -30,4 +36,4 @@ The app is provided “as is” and “as available,” to the extent permitted 
 
 ## Changes and contact
 
-We may update these Terms by posting the revised version here with a new effective date and, for material changes, providing additional notice where required by law. Questions may be sent to **[REPLACE BEFORE PUBLISHING: monitored support email address]**.
+We may update these Terms by posting the revised version here with a new effective date and, for material changes, providing additional notice where required by law. Questions may be sent to our [Privacy Contact Form](https://gco-systech.com/#contact).
